@@ -1,0 +1,158 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Major General Kirk's letter to his Grace the Duke of Hamilton, dated from the Isle of Inch, August the 15. 1689.</title>
+            <author>Kirke, Percy, 1646?-1691.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87790</idno>
+            <idno type="STC">Wing K626</idno>
+            <idno type="STC">ESTC R225100</idno>
+            <idno type="EEBO-CITATION">43077521</idno>
+            <idno type="OCLC">ocm 43077521</idno>
+            <idno type="VID">151587</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87790)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151587)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2266:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Major General Kirk's letter to his Grace the Duke of Hamilton, dated from the Isle of Inch, August the 15. 1689.</title>
+                  <author>Kirke, Percy, 1646?-1691.</author>
+                  <author>Hamilton, James Douglas, Duke of, 1658-1712.</author>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the heir of Andrew Anderson, by order of the Secret Council,</publisher>
+                  <pubPlace>Edinburgh, :</pubPlace>
+                  <date>Anno Dom. 1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in: Newberry Library, Chicago, Illinois.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  War of 1689-1691 --  Sources.</term>
+               <term>Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:151587:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 38 -->
+            <head>Major General <hi>KIRK'S</hi> LETTER To his Grace the Duke of HAMILTON,</head>
+            <head type="sub">Dated from the Iſle of <hi>Inch,</hi> 
+               <date>Auguſt the 5. 1689.</date>
+            </head>
+            <p>THE Officers I ſent to <hi>Inchkillin</hi> has had ſuch good ſucceſs, that Obliges me to trouble Your Grace with this Expreſs, which was brought me laſt Night from theſe Parts.</p>
+            <p>Laſt <hi>Wedneſday</hi> the <hi>Iriſh</hi> had the greateſt Blow ever they had ſince <hi>Skerfallows,</hi> from our Men, for in the Night before, we ſent about eight Troups of Horſe, and three Foot Companies towards <hi>Luneskea,</hi> and about ſix in the Forenoon, Collonel <hi>Anthony Hamilton</hi> came againſt them with a Regiment of Dragoons, three Troops of Horſe, and a conſiderable Body of Foot, at whoſe Approach our Men Retired about two Miles, Fi<g ref="char:EOLhyphen"/>ring ſtill at the Enemy in the Rear, and then haulted: The <hi>Iriſh</hi> came furi<g ref="char:EOLhyphen"/>ouſly on, and our Men received them with their ſmall Shot, and Killed about twenty of them; and, upon this the <hi>Iriſh</hi> Retired, and our Men Advanc<g ref="char:EOLhyphen"/>ed, and put them immediatly to the Rout, and had the Chaſe of them through the Town of <hi>Luneskea,</hi> and all the way to <hi>Donagh,</hi> and then ſtop<g ref="char:EOLhyphen"/>ped, having come within view of the Body of the <hi>Iriſh</hi> Army, who were ſtrongly poſted betw<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>xt <hi>Donagh</hi> and <hi>Newtoun-Butler,</hi> our Men then Retired to the place where this Skirm<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſh began, expecting the reſt of our Army, and all this time we loſt not one Man, and had only about half a Dozen Woun<g ref="char:EOLhyphen"/>ded, but Killed of the Enemy about a hundred and fifty, and took thirty five Priſoners: About ten of the Clock the reſt of our Army came up, and joyned with us, and then we were about 1200 Horſe, and 1500 Foot, and ſo we Marched toward <hi>Newtoun-Butler,</hi> where at the ſteep Hill on this ſide of the Town, the Enemy had p<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſted themſelves very advantageouſly, and kept the place about half an hour, Firing moſt deſperatly at our Men, but they are the worſt Markſ-men in the World, for not one Man of ours was touched, but of their Men we Killed about half a ſcore, and than they retired in very good order through <hi>Newtoun-Bulter,</hi> (having ſet the Tower and all the Houſes about on Fire before) and our Men purſued them to another ſteep Hill, be<g ref="char:EOLhyphen"/>yond <hi>Newtoun,</hi> where they had their Cannon placed, and then they all faced about upon our Men, having ſeven Cannon placed upon the Hill above the Road, and a great Bogg on each ſide, that no Horſe could paſs; but our General, Colonel <hi>Wolſley</hi> (who was up to the Elbows in Blood, he likes us, and we like him very well; ſent a Detachment of Foot through the Boggs on each ſide of the Road, and they played with their Cannon and ſmall ſhot at them, but with the ſame ſucceſs that they had formerly, for nor one of our Men were touched with the Cannon, and but ſix of our Men Kil<g ref="char:EOLhyphen"/>led with ſmall Shot whereas our Men Killed about an hundred of them on the ſpot where their Cannon was placed; Killed their Gunners, took their Cannon, and then the whole Army took the Chaſe, and ours after them, the Horſe keeping the Road, and all their Foot betaking themſelves to the Bogg, that lay next to <hi>Lough Erne;</hi> and being all ſtrangers in the Countrey,
+<pb n="2" facs="tcp:151587:2" rendition="simple:additions"/>
+               <!-- PDF PAGE 39 -->
+our Foot followed them till the <hi>Lough</hi> ſtopped them, Killing them all the way, about five hundred of them took the <hi>Lough,</hi> and Were all Drowned except one man that ſwimmed through; And in ſhort, of above three Re<g ref="char:EOLhyphen"/>giments of Foot, not twenty eſcaped, of being either Killed, Taken, or Drowned, our Horſe purſuing their Horſe all the way toward <hi>Cavan</hi> we found about 2000 Killed, beſides what were Drowned, look above 300 Priſon<g ref="char:EOLhyphen"/>ers, whereof above fifty Commiſſion at Officers, and Lieutenant General <hi>M<hi rend="sup">c</hi>carty</hi> one of them, who is come yeſterday moſt deſperatly Wounded; we hope in a ſhort time to give the ſame Account of thoſe at <hi>Bunderouſe</hi> near <hi>Ballyſhanny,</hi> and then will march towards <hi>Derry,</hi> when we are free from our Enemies at home; for ſince <hi>Derry</hi> is ſupplyed with Proviſions, we need not go there till we be free of Enemies at home, ſo in a ſhort time we are in hopes to ſee the North quieted: We have got very good Officers, and are very numerous in Men, and now well Armed by the Spoils of the Enemies, who are retired to <hi>Cavan.</hi> The Army that was before <hi>Derry</hi> is Marched to <hi>Charle<g ref="char:EOLhyphen"/>mount,</hi> on their way to <hi>Dublin:</hi> It's alſo Reported, that Colonel <hi>Sarsfields</hi> Army is gone back to <hi>Sligo.</hi>
+            </p>
+            <p>I have alſo Intelligence that they are frighted with an Army from <hi>England,</hi> Landed near <hi>Dublin,</hi> which if it be true, their Buſineſs will be done this Summer, for I dare ſay, they will never ſtand a Month, after any of our Army Lands in <hi>Ireland.</hi>
+            </p>
+            <p>I was at <hi>Derry</hi> yeſterday, to order a place to Encamp; ſince I was born I never ſaw a Town of ſo little Strength, to Rout an Army with ſo many Generals againſt it. When your Grace ſees the Draught that I will ſend you by the firſt convenience, you'l be of my opinion. The Houſe a generally broke down by the Boms, there having been five hundred ninety one Shot, Shot into the Town. The Walls and Out-work are not touched.</p>
+            <closer>
+               <signed>Your Graces moſt Humble and Obedient Servant, <hi>R. KIRK.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="comment">
+            <opener>
+               <dateline>Edinburgh, <date>Auguſt 16. 1689.</date>
+               </dateline>
+            </opener>
+            <p>THis day his Grace the Duke of <hi>Hamilton</hi> received another Letter from the Duke of <hi>Schomberg,</hi> dated the 13. Giving Account that he was got into <hi>Bangor Bay</hi> in <hi>Ireland,</hi> with the Ships, Proviſions, and Forces under his Command from <hi>England:</hi> And that the Coaſt were wholly clear, the <hi>Iriſh</hi> ha<g ref="char:EOLhyphen"/>ving <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>un all away So that he hoped to prevent any Diſturbance to this Nation from thence.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Edinburgh,</hi> Printed by the Heir of <hi>Andrew Anderſon,</hi> By Order of the Secret Council, <hi>Anno Dom.</hi> 1689.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
